@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "This is Benjamin R Smith's portfolio! May the gods be forever in his favor. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Benjamin Richard Smith Jr",
+  "license": "ISC"
+}
